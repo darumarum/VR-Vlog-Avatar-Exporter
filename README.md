@@ -32,12 +32,6 @@ Modular Avatarを使う場合は、事前に導入してください。
 2. VCC・ALCOMで、使いたいプロジェクトのパッケージ管理画面を開く。
 3. 「VR Vlog lilToon VRM Exporter」を追加する。
 
-[使い方](#使い方) 
-
-**注意**
-
-更新前にUnityプロジェクトをバックアップしてください。
-
 <details>
 <summary>追加ボタンで開かない場合</summary>
 
