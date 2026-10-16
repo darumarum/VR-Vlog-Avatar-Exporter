@@ -15,7 +15,7 @@ lilToonのアバターを、iPhoneのVR Vlogで使う **VRM 1.0** に書き出�
 | UniVRM | 0.131.0／0.131.1／0.131.2。VCC・ALCOMでは自動導入 |
 | VR Vlog | 0.1.1（ビルド345）以降 |
 
-Modular Avatarを使う場合は、依存パッケージも導入してください。
+Modular Avatarを使う場合は、事前に導入してください。
 
 **注意**
 
@@ -30,9 +30,9 @@ Modular Avatarを使う場合は、依存パッケージも導入してくださ
 
 1. 「VCC / ALCOMに追加」を押す。
 2. VCC・ALCOMで、使いたいプロジェクトのパッケージ管理画面を開く。
-3. 「VR Vlog lilToon VRM Exporter」の安定版をインストールする。
+3. 「VR Vlog lilToon VRM Exporter」を追加する。
 
-[使い方](#使い方) · [スマホで読み込む](#書き出したvrmをスマホで読み込む) · [困ったとき](#困ったとき)
+[使い方](#使い方) 
 
 **注意**
 
@@ -190,8 +190,6 @@ VR Vlogアプリ内の問い合わせも利用できます。
 
 ## 詳細ガイド
 
-| 調べたいこと | 文書 |
-| --- | --- |
 | 表情・ポーズの保存 | [書き出しガイド](Documentation~/ExperimentalExpressionCapture.md) |
 | 見た目の引き継ぎ | [アバターの保存](Compatibility/AvatarPreservation.md) |
 | 揺れ物 | [PhysBone](Compatibility/PhysBone.md) |
